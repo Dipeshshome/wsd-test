@@ -18,7 +18,7 @@ try {
 
     // Function to derive category for uncategorized products
     function deriveCategory(product) {
-        // For simplicity, let's just return a default category 'Others'
+        // For simplicity, return a default category 'Others'
         return 'Others';
     }
 
